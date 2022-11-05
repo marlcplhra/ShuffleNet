@@ -6,7 +6,7 @@ ShuffleNet-v1 based on MindSpore
 训练脚本：
 ```python
 预训练脚本：
-python ./shufflenet/shufflenetv1/train.py --train_dataset_path ./shufflenet/data/cifar10
+python ./train.py --train_dataset_path ./data/cifar10
 预训练评估脚本：
 python ./eval.py --eval_dataset_path ./data/cifar10 --ckpt_path [ckpt]
 迁移训练脚本：
