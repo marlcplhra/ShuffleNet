@@ -1,7 +1,7 @@
 # ShuffleNet
 ShuffleNet-v1 based on MindSpore
 
-有关模型的介绍请参见"ShuffleNet-v1.ipynb".
+有关模型的介绍请参见"ShuffleNet-v1.ipynb"（训练过程代码请以以下脚本为准）.
 
 训练脚本：
 ```python
